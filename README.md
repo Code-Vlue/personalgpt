@@ -1,6 +1,6 @@
 # Personal GPT
 
-This is a personal project that I worked on, its just a simple chat window to chat with chat GPT and may be good for testing an API key.
+This is a personal project that I worked on, its just a simple chat window to chat with chat GPT and may be good for testing an API key. (please click the code button and "download as zip" if you would like to download the project files)
 
 ## How to get it working
 
